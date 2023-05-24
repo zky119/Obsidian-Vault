@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "f737509cb6082729",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ba21cbdfffb9173",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a5321bd908e05d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "笔记/KNN.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e52d9e8b1b6f3e00",
+    "type": "split",
+    "children": [
+      {
+        "id": "e36a56a2c22c4d7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dffa4a99190b03d1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c26d4079878024b2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "46a52e3d59bfe9b4",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "b4ddbb48c4d297b0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 239.5
+  },
+  "right": {
+    "id": "9f3c7f3f0e193034",
+    "type": "split",
+    "children": [
+      {
+        "id": "19418f9ce6310b8a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb8cec4c798bbf3c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "笔记/KNN.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7d9480cc5f1c9b5c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "笔记/KNN.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "18ce653a559ba591",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3fc030083824475d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "笔记/KNN.md"
+              }
+            }
+          },
+          {
+            "id": "4222dea9a345a5b7",
+            "type": "leaf",
+            "state": {
+              "type": "QUICKSHARE_SIDE_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "806e1744f21f2b3c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新建白板": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "9a5321bd908e05d7",
+  "lastOpenFiles": [
+    "obsidian",
+    "笔记/KNN.md",
+    "笔记/线性回归分析.md",
+    "Excalidraw/Drawing 2023-05-24 11.11.27.excalidraw.md",
+    "Excalidraw",
+    "笔记/逻辑回归-项目介绍.md",
+    "超参数调整.md",
+    "特征-目标值.md",
+    "类别-数值转换.md",
+    "最佳阈值.md",
+    "Pasted image 20230523142745.png",
+    "Pasted image 20230523142732.png",
+    "PR曲线.md",
+    "绘制PR曲线.md",
+    "Pasted image 20230523142249.png",
+    "ROC曲线.md",
+    "ROC曲线绘制.md",
+    "笔记/逻辑回归.md",
+    "评估指标.md",
+    "Pasted image 20230523141641.png",
+    "混淆矩阵.md",
+    "GridSearchCV.md",
+    "序数编码和One-Hot编码区别.md",
+    "序数编码.md",
+    "One-Hot编码.md",
+    "交叉验证.md",
+    "数据标准化.md",
+    "map.md",
+    "Pasted image 20230523105439.png",
+    "卡方.md",
+    "交叉统计数量.md",
+    "Pasted image 20230523104712.png",
+    "对两个类别变量的相关性进行分析.md",
+    "Pasted image 20230522214448.png",
+    "Pasted image 20230522212416.png",
+    "未命名.canvas",
+    "Pasted image 20230522140533.png",
+    "Pasted image 20230521214449.png",
+    "笔记"
+  ]
+}

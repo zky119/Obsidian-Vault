@@ -1,0 +1,16 @@
+{
+  "accentColor": "#4cb889",
+  "theme": "obsidian",
+  "cssTheme": "Everforest",
+  "baseFontSize": 22,
+  "enabledCssSnippets": [
+    "liebiao",
+    "biaoqianyaowan",
+    "image-grid",
+    "tag-pills",
+    "clutter-free-headings",
+    "external-link-icons",
+    "folder-icons",
+    "font"
+  ]
+}
