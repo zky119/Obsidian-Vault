@@ -1,7 +1,7 @@
 {
-  "accentColor": "#4cb889",
+  "accentColor": "#00ff91",
   "theme": "obsidian",
-  "cssTheme": "Everforest",
+  "cssTheme": "Minimal",
   "baseFontSize": 22,
   "enabledCssSnippets": [
     "liebiao",
@@ -12,5 +12,6 @@
     "external-link-icons",
     "folder-icons",
     "font"
-  ]
+  ],
+  "translucency": false
 }

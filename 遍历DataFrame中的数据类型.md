@@ -6,3 +6,4 @@ for k, v in data.dtypes.items():
 print("数值类型变量个数：", len(number_var))
 print(number_var)
 ```
+

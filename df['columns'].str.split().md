@@ -1,3 +1,4 @@
+
 `df['columns'].str.split(expand=True)` 是 Pandas 中字符串操作方法的一个参数选项，用于将拆分后的结果展开为多个列。
 
 默认情况下，`df['columns'].str.split()` 返回一个包含拆分后字符串的列表的 Series，每个元素是一个列表。但是，通过设置 `expand=True` 参数，可以将拆分后的结果展开为多个列，并返回一个包含这些列的 DataFrame。

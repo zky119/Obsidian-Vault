@@ -6,7 +6,7 @@
 		- 当进行<font  color="#A7BBEA"  size="5">分类</font>预测时，使用 个邻居中，<font  color="FFA488"  size="6">类别数量最多（或加权最多）者</font>，作为预测结果。
 		- 当进行<font  color="#A7BBEA"  size="5">回归</font>预测时，使用 个邻居的<font  color="FFA488"  size="6">均值</font>（或加权均值），作为预测结果。
 
-二，算法超参数
+二，算法超参数 
 
 1，K值
 - 当 `K` 值<font  color="#A7BBEA"  size="5">较小</font>时，模型会依赖于附近的邻居样本，具有<font  color="FFA488"  size="6">较好敏感性</font>，但是<font  color="FFA488"  size="6">稳定性会较弱</font>，容易导致过拟合。
@@ -39,14 +39,14 @@
 
 4，算法步骤
 1. 确定算法超参数。
-	1. 确定近邻的数量 。
+	1. 确定近邻的数量K 。
 	2. 确定距离度量方式。
 	3. 确定权重计算方式。
 	4. 其他超参数。
-2. 从训练集中选择离待预测样本 最近的 个样本。
-3. 根据这 个样本预测 。
-	1. 对于分类，使用 个样本的类别（或加权类别）预测 。
-	2. 对于回归，使用 个样本目标值（ ）的均值（或加权均值）预测 。
+2. 从训练集中选择离待预测样本A最近的K个样本。
+3. 根据这 K个样本预测A 。
+	1. 对于分类，使用 K个样本的类别（或加权类别）预测 A。
+	2. 对于回归，使用 K个样本目标值（y）的均值（或加权均值）预测 A。
 ```
 问：给定待预测样本A，如果在训练集中，存在两个（或更多）不同的邻居N1与N2（N1与N2的标签不 同），二者距离A的距离相等，假设K的值为1，则此时选择哪个邻居较为合理？
 
@@ -58,3 +58,63 @@
 	sklearn会预测为标签值小的哪个
 ```
 
+```
+问：通过网格交叉验证，可以帮助我们完成调参工作，因此，即使我们不太了解超参数的含义，也可以顺利 完成调参任务。这种说法正确吗？
+
+答：根据超参数本身的含义来选择，比如range（10）
+```
+
+三，使用KNN实现分类
+
+1，建模预测
+
+```python
+from sklearn.neighbors import KNeighborsClassifier
+
+# n_neighbors：邻居的数量。
+# weights：权重计算方式。可选值为uniform与distance。 
+	# uniform：所有样本统一权重。 
+	# distance：样本权重与距离成反比。 
+
+knn = KNeighborsClassifier(n_neighbors=3, weights="uniform") 
+
+knn.fit(X_train, y_train) 
+
+# y_hat = knn.predict(X_test) 
+
+# print(classification_report(y_test, y_hat))
+```
+
+2，[[KNN超参数-笛卡尔乘积遍历]] + [[KNN画图]]
+
+```python
+from itertools import product
+weights = ['uniform', 'distance']
+ks = [2, 15]
+
+for i, (w, k) in enumerate(product(weights, ks), start=1):
+	knn = KNeighborsClassifier(n_neighbors=k, weights=w)
+    # 这里只看决策边界，不考虑模型预测效果，因此使用所有数据训练。
+    knn.fit(X, y)
+```
+![[Pasted image 20230525144458.png]]
+- 图一大概 （5,2.5）位置还是绿色区域是因为：K值是2，确定是哪个的时候会选择先出现的那个标签，[0,1,2]会选在前面的
+
+3，[[超参数调整]]
+- 导入`from sklearn.model_selection import GridSearchCV`
+- 写grid
+- fit
+
+四，[[使用KNN回归预测]]
+
+```python
+from sklearn.neighbors import KNeighborsRegressor
+
+knn = KNeighborsRegressor(n_neighbors=3, weights=weights)
+
+knn.fit(X_train, y_train)
+```
+![[Pasted image 20230525150358.png]]
+
+- 图一平直是因为：等权重
+- 图二是曲线是因为：距离权重，随着距离的变化而变化

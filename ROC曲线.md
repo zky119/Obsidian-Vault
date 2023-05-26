@@ -1,3 +1,4 @@
+
 [[ROC曲线绘制]]
 ROC曲线（Receiver Operating Characteristic Curve）是用于评估二分类模型性能的一种常用工具。它通过绘制模型在不同阈值下的真正例率（True Positive Rate，又称为召回率）与假正例率（False Positive Rate）之间的关系曲线来展示分类模型的性能。
 

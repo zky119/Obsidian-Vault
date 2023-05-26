@@ -1,3 +1,4 @@
+
 ```python
 def con2cat_analysis(df, feature, target="Churn"):
     """对连续变量（特征）与类别变量（目标值）实现相关性分析。
@@ -25,5 +26,6 @@ def con2cat_analysis(df, feature, target="Churn"):
     # print(group_data)
     print(stats.kruskal(*group_data))
 ```
+
 
 ![[Pasted image 20230522214448.png]]

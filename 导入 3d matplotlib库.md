@@ -1,8 +1,8 @@
 ```python
 from mpl_toolkits.mplot3d import Axes3D
 # 图形显示方式，默认为嵌入显示。
-# %matplotlib inline
-# 弹出框显示。
+	# %matplotlib inline
+	# 弹出框显示。
 %matplotlib qt
 
 # 分别提取两个特征的最小值与最大值。

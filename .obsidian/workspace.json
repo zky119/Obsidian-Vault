@@ -4,19 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7ba21cbdfffb9173",
+        "id": "4660bfab9fbb8bfa",
         "type": "tabs",
         "children": [
           {
-            "id": "9a5321bd908e05d7",
+            "id": "ee43d4cea0df2d0f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "笔记/KNN.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Pasted image 20230512192250.png"
               }
             }
           }
@@ -49,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Ord",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "笔记/KNN.md",
+                "file": "Pasted image 20230512192250.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "笔记/KNN.md",
+                "file": "Pasted image 20230512192250.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记/KNN.md"
+                "file": "Pasted image 20230512192250.png"
               }
             }
           },
@@ -174,46 +171,51 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9a5321bd908e05d7",
+  "active": "ee43d4cea0df2d0f",
   "lastOpenFiles": [
-    "obsidian",
-    "笔记/KNN.md",
-    "笔记/线性回归分析.md",
-    "Excalidraw/Drawing 2023-05-24 11.11.27.excalidraw.md",
-    "Excalidraw",
-    "笔记/逻辑回归-项目介绍.md",
-    "超参数调整.md",
-    "特征-目标值.md",
-    "类别-数值转换.md",
-    "最佳阈值.md",
-    "Pasted image 20230523142745.png",
-    "Pasted image 20230523142732.png",
-    "PR曲线.md",
-    "绘制PR曲线.md",
-    "Pasted image 20230523142249.png",
-    "ROC曲线.md",
+    "sns箱型图中位数相关分析函数（连续-类别）.md",
+    "sigmoid函数.md",
     "ROC曲线绘制.md",
-    "笔记/逻辑回归.md",
-    "评估指标.md",
-    "Pasted image 20230523141641.png",
-    "混淆矩阵.md",
+    "ROC曲线.md",
+    "PR曲线.md",
+    "Pasted image 20230512192250.png",
+    "One-Hot编码.md",
+    "multinomial.md",
+    "map.md",
+    "L2正则化.md",
+    "L1正则化.md",
+    "KNN画图.md",
+    "KNN超参数-笛卡尔乘积遍历.md",
     "GridSearchCV.md",
+    "Elastic Net.md",
+    "df['columns'].str.split().md",
+    "最佳阈值.md",
+    "正则化说明.md",
+    "正则化.md",
+    "正确率（Accuracy）.md",
+    "召回率（Recall）.md",
+    "载入模型.md",
     "序数编码和One-Hot编码区别.md",
     "序数编码.md",
-    "One-Hot编码.md",
-    "交叉验证.md",
-    "数据标准化.md",
-    "map.md",
-    "Pasted image 20230523105439.png",
-    "卡方.md",
-    "交叉统计数量.md",
-    "Pasted image 20230523104712.png",
-    "对两个类别变量的相关性进行分析.md",
-    "Pasted image 20230522214448.png",
-    "Pasted image 20230522212416.png",
+    "向量表示.md",
+    "误差与分布.md",
+    "推导过程.md",
     "未命名.canvas",
-    "Pasted image 20230522140533.png",
-    "Pasted image 20230521214449.png",
+    "Pasted image 20230525220709.png",
+    "Pasted image 20230525150358.png",
+    "Pasted image 20230525144458.png",
+    "Pasted image 20230523142745 - 副本.png",
+    "Pasted image 20230523142732 - 副本.png",
+    "Pasted image 20230523142249 - 副本.png",
+    "Pasted image 20230523141641 - 副本.png",
+    "Pasted image 20230523105439 - 副本.png",
+    "Pasted image 20230523104712 - 副本.png",
+    " - 副本.gitattributes",
+    "笔记 - 副本",
+    "obsidian - 副本",
+    "Excalidraw - 副本",
+    "obsidian",
+    "Excalidraw",
     "笔记"
   ]
 }
