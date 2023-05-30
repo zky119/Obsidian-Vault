@@ -8,11 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5b1fb9223f6b5c8b",
+            "id": "659fa82adb6de0d4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "笔记/关联分析.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "笔记/关联分析.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "笔记/关联分析.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "笔记/关联分析.md"
+              }
             }
           },
           {
@@ -165,8 +174,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5b1fb9223f6b5c8b",
+  "active": "659fa82adb6de0d4",
   "lastOpenFiles": [
+    "sns箱型图中位数相关分析函数（连续-类别）.md",
+    "特征-目标值.md",
+    "连续-连续.md",
+    "笔记/贝叶斯.md",
+    "笔记/关联分析.md",
+    "频繁项集.md",
+    "提升度.md",
+    "置信度.md",
+    "支持度.md",
     "作业_项目/情感分析（哪吒影评）.md",
     "文本向量化.md",
     "特征选择.md",
@@ -174,12 +192,9 @@
     "TF-IDF.md",
     "Pasted image 20230529212620.png",
     "comment.csv",
-    "笔记/贝叶斯.md",
     "计算概率时为什么是对数形式.md",
     "Excalidraw/Drawing 2023-05-24 15.12.33.excalidraw.md",
     "作业_项目/垃圾短信分类.md",
-    "特征-目标值.md",
-    "sns箱型图中位数相关分析函数（连续-类别）.md",
     "类别-连续.md",
     "笔记/逻辑回归-项目介绍.md",
     "卡方.md",
@@ -194,12 +209,6 @@
     "互补朴素贝叶斯代码.md",
     "互补朴素贝叶斯.md",
     "多项式朴素贝叶斯代码.md",
-    "多项式朴素贝叶斯.md",
-    "伯努利朴素贝叶斯代码.md",
-    "高斯朴素贝叶斯.md",
-    "高斯朴素贝叶斯代码.md",
-    "分类朴素贝叶斯代码.md",
-    "笔记/个人信息数据集.md",
     "Pasted image 20230512192250.png",
     "未命名.canvas",
     "Pasted image 20230525220709.png",
