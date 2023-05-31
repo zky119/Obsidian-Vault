@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/关联分析.md",
+                "file": "笔记/svm.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "连续",
+                "query": "f1",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5
+    "width": 235.5,
+    "collapsed": true
   },
   "right": {
     "id": "9f3c7f3f0e193034",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "笔记/关联分析.md",
+                "file": "笔记/svm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "笔记/关联分析.md",
+                "file": "笔记/svm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记/关联分析.md"
+                "file": "笔记/svm.md"
               }
             }
           },
@@ -176,16 +177,19 @@
   },
   "active": "659fa82adb6de0d4",
   "lastOpenFiles": [
+    "作业_项目/情感分析（哪吒影评）.md",
+    "笔记/svm.md",
+    "stopword.txt",
+    "评估指标（正确率，精准率，召回率）.md",
+    "笔记/关联分析.md",
     "sns箱型图中位数相关分析函数（连续-类别）.md",
     "特征-目标值.md",
     "连续-连续.md",
     "笔记/贝叶斯.md",
-    "笔记/关联分析.md",
     "频繁项集.md",
     "提升度.md",
     "置信度.md",
     "支持度.md",
-    "作业_项目/情感分析（哪吒影评）.md",
     "文本向量化.md",
     "特征选择.md",
     "Pasted image 20230529212941.png",
@@ -201,14 +205,12 @@
     "3655049802117b044ce3a58d84e6a9e.png",
     "作业_项目/sms spam.csv",
     "sms spam.csv",
-    "评估指标（正确率，精准率，召回率）.md",
     "作业_项目",
     "最佳阈值.md",
     "笔记/逻辑回归.md",
     "伯努利朴素贝叶斯.md",
     "互补朴素贝叶斯代码.md",
     "互补朴素贝叶斯.md",
-    "多项式朴素贝叶斯代码.md",
     "Pasted image 20230512192250.png",
     "未命名.canvas",
     "Pasted image 20230525220709.png",
@@ -221,7 +223,6 @@
     "笔记 - 副本",
     "obsidian - 副本",
     "Excalidraw - 副本",
-    "obsidian",
-    "Excalidraw"
+    "obsidian"
   ]
 }
