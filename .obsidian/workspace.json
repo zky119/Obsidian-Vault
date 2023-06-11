@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/svm.md",
+                "file": "笔记/提升方法.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "f1",
+                "query": "对数",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5,
-    "collapsed": true
+    "width": 235.5
   },
   "right": {
     "id": "9f3c7f3f0e193034",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "笔记/svm.md",
+                "file": "笔记/提升方法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "笔记/svm.md",
+                "file": "笔记/提升方法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记/svm.md"
+                "file": "笔记/提升方法.md"
               }
             }
           },
@@ -177,48 +176,48 @@
   },
   "active": "659fa82adb6de0d4",
   "lastOpenFiles": [
-    "作业_项目/情感分析（哪吒影评）.md",
-    "笔记/svm.md",
-    "stopword.txt",
-    "评估指标（正确率，精准率，召回率）.md",
-    "笔记/关联分析.md",
-    "sns箱型图中位数相关分析函数（连续-类别）.md",
-    "特征-目标值.md",
-    "连续-连续.md",
-    "笔记/贝叶斯.md",
-    "频繁项集.md",
-    "提升度.md",
-    "置信度.md",
-    "支持度.md",
-    "文本向量化.md",
-    "特征选择.md",
-    "Pasted image 20230529212941.png",
-    "TF-IDF.md",
-    "Pasted image 20230529212620.png",
-    "comment.csv",
-    "计算概率时为什么是对数形式.md",
-    "Excalidraw/Drawing 2023-05-24 15.12.33.excalidraw.md",
-    "作业_项目/垃圾短信分类.md",
-    "类别-连续.md",
-    "笔记/逻辑回归-项目介绍.md",
-    "卡方.md",
+    "笔记/K-Means.md",
+    "笔记/提升方法.md",
+    "计算SSE中的两点距离.md",
+    "轮廓系数.md",
+    "肘部法则.md",
+    "Pasted image 20230610194844.png",
+    "Mini Batch K-Means程序演示.md",
+    "Pasted image 20230610194328.png",
+    "计算一组点与另一组点之间的最近邻索引.md",
     "3655049802117b044ce3a58d84e6a9e.png",
+    "1, 2], [3, 4], [5, 6.md",
+    "Pasted image 20230610193141.png",
+    "Pasted image 20230610192953.png",
+    "Pasted image 20230610170128.png",
+    "导入线性回归函数.md",
+    "笔记/线性回归分析.md",
+    "KMeans的默认值.md",
+    "KMeans++算法步骤.md",
+    "初始质心的影响.md",
+    "Pasted image 20230610000327.png",
+    "Pasted image 20230610000238.png",
+    "n_init.md",
+    "条形或不规则形状的数据.md",
+    "KMeans程序演示.md",
+    "Pasted image 20230609223739.png",
+    "Pasted image 20230609172717.png",
+    "推导过程.md",
+    "多项式朴素贝叶斯代码.md",
+    "笔记/逻辑回归.md",
+    "伯努利朴素贝叶斯代码.md",
+    "笔记/贝叶斯.md",
+    "计算概率时为什么是对数形式.md",
+    "笔记/集成方法和随机森林.md",
+    "Bagging代码.md",
+    "Bagging介绍.md",
+    "评估器对比.md",
+    "未命名.canvas",
+    "stopword.txt",
+    "comment.csv",
     "作业_项目/sms spam.csv",
     "sms spam.csv",
     "作业_项目",
-    "最佳阈值.md",
-    "笔记/逻辑回归.md",
-    "伯努利朴素贝叶斯.md",
-    "互补朴素贝叶斯代码.md",
-    "互补朴素贝叶斯.md",
-    "Pasted image 20230512192250.png",
-    "未命名.canvas",
-    "Pasted image 20230525220709.png",
-    "Pasted image 20230525150358.png",
-    "Pasted image 20230525144458.png",
-    "Pasted image 20230523142745 - 副本.png",
-    "Pasted image 20230523142732 - 副本.png",
-    "Pasted image 20230523142249 - 副本.png",
     " - 副本.gitattributes",
     "笔记 - 副本",
     "obsidian - 副本",

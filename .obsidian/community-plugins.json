@@ -13,5 +13,8 @@
   "obsidian-icon-folder",
   "obsidian-emoji-toolbar",
   "obsidian-image-toolkit",
-  "obsidian-banners"
+  "obsidian-banners",
+  "editing-toolbar",
+  "floating-toc",
+  "highlightr-plugin"
 ]
