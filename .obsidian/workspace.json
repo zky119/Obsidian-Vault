@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/提升方法.md",
+                "file": "笔记/K-Means.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5
+    "width": 235.5,
+    "collapsed": true
   },
   "right": {
     "id": "9f3c7f3f0e193034",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "笔记/提升方法.md",
+                "file": "笔记/K-Means.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "笔记/提升方法.md",
+                "file": "笔记/K-Means.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记/提升方法.md"
+                "file": "笔记/K-Means.md"
               }
             }
           },
@@ -176,15 +177,29 @@
   },
   "active": "659fa82adb6de0d4",
   "lastOpenFiles": [
-    "笔记/K-Means.md",
-    "笔记/提升方法.md",
-    "计算SSE中的两点距离.md",
     "轮廓系数.md",
+    "笔记/K-Means.md",
     "肘部法则.md",
-    "Pasted image 20230610194844.png",
-    "Mini Batch K-Means程序演示.md",
-    "Pasted image 20230610194328.png",
     "计算一组点与另一组点之间的最近邻索引.md",
+    "Mini Batch K-Means程序演示.md",
+    "KMeans++算法步骤.md",
+    "初始质心的影响.md",
+    "KMeans程序演示.md",
+    "KMeans的默认值.md",
+    "n_init.md",
+    "条形或不规则形状的数据.md",
+    "计算SSE中的两点距离.md",
+    "AdaBoost算法步骤.md",
+    "泰勒展开式示例.md",
+    "Pasted image 20230611152540.png",
+    "泰勒公式.md",
+    "AdaBoost示例.md",
+    "Pasted image 20230611151723.png",
+    "Pasted image 20230611151610.png",
+    "笔记/提升方法.md",
+    "Pasted image 20230611150150.png",
+    "Pasted image 20230610194844.png",
+    "Pasted image 20230610194328.png",
     "3655049802117b044ce3a58d84e6a9e.png",
     "1, 2], [3, 4], [5, 6.md",
     "Pasted image 20230610193141.png",
@@ -192,26 +207,11 @@
     "Pasted image 20230610170128.png",
     "导入线性回归函数.md",
     "笔记/线性回归分析.md",
-    "KMeans的默认值.md",
-    "KMeans++算法步骤.md",
-    "初始质心的影响.md",
-    "Pasted image 20230610000327.png",
-    "Pasted image 20230610000238.png",
-    "n_init.md",
-    "条形或不规则形状的数据.md",
-    "KMeans程序演示.md",
-    "Pasted image 20230609223739.png",
-    "Pasted image 20230609172717.png",
     "推导过程.md",
     "多项式朴素贝叶斯代码.md",
     "笔记/逻辑回归.md",
     "伯努利朴素贝叶斯代码.md",
     "笔记/贝叶斯.md",
-    "计算概率时为什么是对数形式.md",
-    "笔记/集成方法和随机森林.md",
-    "Bagging代码.md",
-    "Bagging介绍.md",
-    "评估器对比.md",
     "未命名.canvas",
     "stopword.txt",
     "comment.csv",
