@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/K-Means.md",
+                "file": "笔记/XGBoost.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "对数",
+                "query": "apply",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "笔记/K-Means.md",
+                "file": "笔记/XGBoost.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "笔记/K-Means.md",
+                "file": "笔记/XGBoost.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记/K-Means.md"
+                "file": "笔记/XGBoost.md"
               }
             }
           },
@@ -177,18 +177,24 @@
   },
   "active": "659fa82adb6de0d4",
   "lastOpenFiles": [
+    "XGBoost和GBDT的区别.md",
+    "笔记/XGBoost.md",
+    "作业_项目/情感分析（哪吒影评）.md",
+    "类别-连续.md",
+    "笔记/逻辑回归-项目介绍.md",
+    "笔记/贝叶斯.md",
     "轮廓系数.md",
     "笔记/K-Means.md",
     "肘部法则.md",
     "计算一组点与另一组点之间的最近邻索引.md",
-    "Mini Batch K-Means程序演示.md",
     "KMeans++算法步骤.md",
+    "条形或不规则形状的数据.md",
+    "n_init.md",
+    "计算SSE中的两点距离.md",
+    "Mini Batch K-Means程序演示.md",
     "初始质心的影响.md",
     "KMeans程序演示.md",
     "KMeans的默认值.md",
-    "n_init.md",
-    "条形或不规则形状的数据.md",
-    "计算SSE中的两点距离.md",
     "AdaBoost算法步骤.md",
     "泰勒展开式示例.md",
     "Pasted image 20230611152540.png",
@@ -207,11 +213,6 @@
     "Pasted image 20230610170128.png",
     "导入线性回归函数.md",
     "笔记/线性回归分析.md",
-    "推导过程.md",
-    "多项式朴素贝叶斯代码.md",
-    "笔记/逻辑回归.md",
-    "伯努利朴素贝叶斯代码.md",
-    "笔记/贝叶斯.md",
     "未命名.canvas",
     "stopword.txt",
     "comment.csv",
