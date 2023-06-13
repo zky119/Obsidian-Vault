@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5,
-    "collapsed": true
+    "width": 235.5
   },
   "right": {
     "id": "9f3c7f3f0e193034",
@@ -156,12 +155,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,8 +175,10 @@
   },
   "active": "659fa82adb6de0d4",
   "lastOpenFiles": [
-    "XGBoost和GBDT的区别.md",
+    "笔记/决策树.md",
     "笔记/XGBoost.md",
+    "Pasted image 20230612222131.png",
+    "XGBoost和GBDT的区别.md",
     "作业_项目/情感分析（哪吒影评）.md",
     "类别-连续.md",
     "笔记/逻辑回归-项目介绍.md",
@@ -210,9 +210,7 @@
     "1, 2], [3, 4], [5, 6.md",
     "Pasted image 20230610193141.png",
     "Pasted image 20230610192953.png",
-    "Pasted image 20230610170128.png",
     "导入线性回归函数.md",
-    "笔记/线性回归分析.md",
     "未命名.canvas",
     "stopword.txt",
     "comment.csv",
