@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "作业_项目/在线教育.md",
+                "file": "导入多项式扩展的库.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2c2751cd5e36e43a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "笔记/线性回归分析.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "new",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +87,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "作业_项目/在线教育.md",
+                "file": "导入多项式扩展的库.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "作业_项目/在线教育.md",
+                "file": "导入多项式扩展的库.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "作业_项目/在线教育.md"
+                "file": "导入多项式扩展的库.md"
               }
             }
           },
@@ -176,9 +190,29 @@
   },
   "active": "659fa82adb6de0d4",
   "lastOpenFiles": [
+    "笔记/决策树.md",
+    "回归决策树.md",
+    "Pasted image 20230618171114.png",
+    "分类决策树.md",
+    "Pasted image 20230618170951.png",
+    "Pasted image 20230618170943.png",
+    "笔记/线性回归分析.md",
+    "MAE.md",
+    "MSE.md",
+    "Pasted image 20230618152350.png",
+    "笔记/PCA算法.md",
+    "Pasted image 20230618144720.png",
+    "Pasted image 20230618144506.png",
+    "实际案例.md",
+    "笔记/逻辑回归.md",
+    "推导过程.md",
+    "multinomial.md",
+    "多项式逻辑回归.md",
+    "混淆矩阵.md",
+    "笔记/Pandas.md",
+    "作业_项目/在线教育.md",
     "课上 copy.ipynb",
     "导入 切分数据集 的函数.md",
-    "作业_项目/在线教育.md",
     "超参数调整.md",
     "保存模型.md",
     "笔记/逻辑回归-项目介绍.md",
@@ -187,31 +221,11 @@
     "特征-目标值.md",
     "sns箱型图中位数相关分析函数（连续-类别）.md",
     "类别-连续.md",
-    "笔记/决策树.md",
     "笔记/stats.md",
-    "导入 3d matplotlib库.md",
-    "卡方.md",
-    "笔记/PCA算法.md",
     "Pasted image 20230615213036.png",
     "Pasted image 20230615212554.png",
-    "笔记/XGBoost.md",
     "Pasted image 20230612222131.png",
-    "XGBoost和GBDT的区别.md",
-    "作业_项目/情感分析（哪吒影评）.md",
-    "笔记/贝叶斯.md",
-    "轮廓系数.md",
-    "笔记/K-Means.md",
-    "肘部法则.md",
-    "计算一组点与另一组点之间的最近邻索引.md",
-    "KMeans++算法步骤.md",
-    "条形或不规则形状的数据.md",
     "Pasted image 20230611152540.png",
-    "Pasted image 20230611151723.png",
-    "Pasted image 20230611151610.png",
-    "Pasted image 20230611150150.png",
-    "Pasted image 20230610194844.png",
-    "Pasted image 20230610194328.png",
-    "3655049802117b044ce3a58d84e6a9e.png",
     "未命名.canvas",
     "stopword.txt",
     "comment.csv",
@@ -221,7 +235,6 @@
     " - 副本.gitattributes",
     "笔记 - 副本",
     "obsidian - 副本",
-    "Excalidraw - 副本",
-    "obsidian"
+    "Excalidraw - 副本"
   ]
 }
