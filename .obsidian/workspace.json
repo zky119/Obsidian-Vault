@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cac80b8831935db2",
+        "id": "33d9a4ad04abe99e",
         "type": "tabs",
         "children": [
           {
-            "id": "4dadcabcf985df31",
+            "id": "f5e10fbdee31c4f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "导入多项式扩展的库.md",
+                "file": "超参数调整.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "predict_",
+                "query": "grid",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "导入多项式扩展的库.md",
+                "file": "超参数调整.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "导入多项式扩展的库.md",
+                "file": "超参数调整.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "导入多项式扩展的库.md"
+                "file": "超参数调整.md"
               }
             }
           },
@@ -175,9 +175,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4dadcabcf985df31",
+  "active": "f5e10fbdee31c4f6",
   "lastOpenFiles": [
+    "笔记/Pandas.md",
+    "笔记/逻辑回归-项目介绍.md",
+    "评估指标（正确率，精准率，召回率）.md",
+    "最佳阈值.md",
+    "分类朴素贝叶斯.md",
+    "作业_项目/手写多元线性回归.md",
+    "大纲/大纲.md",
     "笔记/线性回归分析.md",
+    "导入多项式扩展的库.md",
+    "导入线性回归函数.md",
+    "大纲",
+    "未命名 1.canvas",
+    "Elastic Net.md",
     "AdaBoost算法步骤.md",
     "调和平均值 F1（F1-score）.md",
     "计算概率值.md",
@@ -193,19 +205,9 @@
     "决策边界.md",
     "极度随机树.md",
     "随机森林.md",
-    "Bagging代码.md",
-    "Bagging介绍.md",
-    "笔记/XGBoost.md",
-    "笔记/Pandas.md",
-    "导入多项式扩展的库.md",
-    "笔记/决策树.md",
-    "回归决策树.md",
     "Pasted image 20230618171114.png",
-    "分类决策树.md",
     "Pasted image 20230618170951.png",
     "Pasted image 20230618170943.png",
-    "MAE.md",
-    "MSE.md",
     "Pasted image 20230618152350.png",
     "Pasted image 20230618144720.png",
     "Pasted image 20230618144506.png",
@@ -222,7 +224,6 @@
     "作业_项目",
     " - 副本.gitattributes",
     "笔记 - 副本",
-    "obsidian - 副本",
-    "Excalidraw - 副本"
+    "obsidian - 副本"
   ]
 }
