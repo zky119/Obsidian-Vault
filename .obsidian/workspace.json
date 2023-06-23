@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "超参数调整.md",
+                "file": "导入回归模型评估.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3876cb429c78ec62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "grid",
+                "query": "Linear",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,12 +88,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 235.5
+    "width": 235.5,
+    "collapsed": true
   },
   "right": {
     "id": "9f3c7f3f0e193034",
@@ -95,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "超参数调整.md",
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "超参数调整.md",
+                "file": "未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "超参数调整.md"
+                "file": "未命名.md"
               }
             }
           },
@@ -175,18 +189,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f5e10fbdee31c4f6",
+  "active": "3876cb429c78ec62",
   "lastOpenFiles": [
+    "Pasted image 20230623110046.png",
+    "Pasted image 20230623110028.png",
+    "Pasted image 20230623110016.png",
+    "Pasted image 20230623105936.png",
+    "未命名.md",
+    "导入回归模型评估.md",
+    "笔记/线性回归分析.md",
+    "导入线性回归函数.md",
+    "导入多项式扩展的库.md",
+    "大纲/大纲.md",
+    "超参数调整.md",
     "笔记/Pandas.md",
     "笔记/逻辑回归-项目介绍.md",
     "评估指标（正确率，精准率，召回率）.md",
     "最佳阈值.md",
     "分类朴素贝叶斯.md",
     "作业_项目/手写多元线性回归.md",
-    "大纲/大纲.md",
-    "笔记/线性回归分析.md",
-    "导入多项式扩展的库.md",
-    "导入线性回归函数.md",
     "大纲",
     "未命名 1.canvas",
     "Elastic Net.md",
@@ -201,10 +222,6 @@
     "Voting分类程序演示.md",
     "Voting.md",
     "笔记/集成方法和随机森林.md",
-    "决策树程序演示.md",
-    "决策边界.md",
-    "极度随机树.md",
-    "随机森林.md",
     "Pasted image 20230618171114.png",
     "Pasted image 20230618170951.png",
     "Pasted image 20230618170943.png",
@@ -213,9 +230,6 @@
     "Pasted image 20230618144506.png",
     "课上 copy.ipynb",
     "Pasted image 20230615213036.png",
-    "Pasted image 20230615212554.png",
-    "Pasted image 20230612222131.png",
-    "Pasted image 20230611152540.png",
     "未命名.canvas",
     "stopword.txt",
     "comment.csv",
