@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "导入回归模型评估.md",
+                "file": "笔记/时间序列分析.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "3876cb429c78ec62",
+            "id": "8440a4ac473018a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大头计划.md",
+                "file": "查找异常值（正态分布数据）.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "大头计划.md",
+                "file": "查找异常值（正态分布数据）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "大头计划.md",
+                "file": "查找异常值（正态分布数据）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大头计划.md"
+                "file": "查找异常值（正态分布数据）.md"
               }
             }
           },
@@ -189,14 +189,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3876cb429c78ec62",
+  "active": "8440a4ac473018a4",
   "lastOpenFiles": [
+    "z-score.md",
+    "查找异常值（正态分布数据）.md",
+    "笔记/时间序列分析.md",
+    "查找异常值.canvas",
+    "作业_项目/阿里天池.md",
+    "Pasted image 20230625162519.png",
+    "Pasted image 20230625113833.png",
+    "Pasted image 20230625113752.png",
+    "Pasted image 20230625113300.png",
+    "导入回归模型评估.md",
+    "大头计划.md",
     "Pasted image 20230623110046.png",
     "Pasted image 20230623110028.png",
     "Pasted image 20230623110016.png",
     "Pasted image 20230623105936.png",
-    "大头计划.md",
-    "导入回归模型评估.md",
     "笔记/线性回归分析.md",
     "导入线性回归函数.md",
     "导入多项式扩展的库.md",
@@ -219,17 +228,9 @@
     "sns箱型图中位数相关分析函数（连续-类别）.md",
     "特征-目标值.md",
     "对两个类别变量的相关性进行分析（类别-类别）.md",
-    "Voting分类程序演示.md",
-    "Voting.md",
-    "笔记/集成方法和随机森林.md",
     "Pasted image 20230618171114.png",
     "Pasted image 20230618170951.png",
-    "Pasted image 20230618170943.png",
-    "Pasted image 20230618152350.png",
-    "Pasted image 20230618144720.png",
-    "Pasted image 20230618144506.png",
     "课上 copy.ipynb",
-    "Pasted image 20230615213036.png",
     "未命名.canvas",
     "stopword.txt",
     "comment.csv",
