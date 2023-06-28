@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "查找异常值（正态分布数据）.md",
+                "file": "笔记/时间序列分析.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "查找异常值（正态分布数据）.md",
+                "file": "笔记/时间序列分析.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "查找异常值（正态分布数据）.md"
+                "file": "笔记/时间序列分析.md"
               }
             }
           },
@@ -189,10 +188,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8440a4ac473018a4",
+  "active": "f5e10fbdee31c4f6",
   "lastOpenFiles": [
-    "z-score.md",
     "查找异常值（正态分布数据）.md",
+    "z-score.md",
     "笔记/时间序列分析.md",
     "查找异常值.canvas",
     "作业_项目/阿里天池.md",
