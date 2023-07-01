@@ -21,6 +21,32 @@
             }
           },
           {
+            "id": "2e1a1fde2f43697f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "多重共线性.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d6c62376f161e957",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sns.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "8440a4ac473018a4",
             "type": "leaf",
             "state": {
@@ -33,7 +59,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "笔记/时间序列分析.md",
+                "file": "sns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "笔记/时间序列分析.md",
+                "file": "sns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记/时间序列分析.md"
+                "file": "sns.md"
               }
             }
           },
@@ -187,11 +214,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f5e10fbdee31c4f6",
+  "active": "d6c62376f161e957",
   "lastOpenFiles": [
+    "Pasted image 20230701161826.png",
+    "Pasted image 20230701160417.png",
+    "Pasted image 20230701145029.png",
+    "Pasted image 20230701144811.png",
     "查找异常值（正态分布数据）.md",
-    "z-score.md",
+    "sns.md",
+    "多重共线性.md",
     "笔记/时间序列分析.md",
+    "z-score.md",
     "查找异常值.canvas",
     "作业_项目/阿里天池.md",
     "Pasted image 20230625162519.png",
@@ -203,7 +236,6 @@
     "Pasted image 20230623110046.png",
     "Pasted image 20230623110028.png",
     "Pasted image 20230623110016.png",
-    "Pasted image 20230623105936.png",
     "笔记/线性回归分析.md",
     "导入线性回归函数.md",
     "导入多项式扩展的库.md",
@@ -223,11 +255,6 @@
     "计算概率值.md",
     "笔记/逻辑回归.md",
     "分类朴素贝叶斯代码.md",
-    "sns箱型图中位数相关分析函数（连续-类别）.md",
-    "特征-目标值.md",
-    "对两个类别变量的相关性进行分析（类别-类别）.md",
-    "Pasted image 20230618171114.png",
-    "Pasted image 20230618170951.png",
     "课上 copy.ipynb",
     "未命名.canvas",
     "stopword.txt",
