@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sns.md",
+                "file": "评估指标（正确率，精准率，召回率）.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Linear",
+                "query": "召回率",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +114,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -134,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sns.md",
+                "file": "评估指标（正确率，精准率，召回率）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sns.md",
+                "file": "评估指标（正确率，精准率，召回率）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sns.md"
+                "file": "评估指标（正确率，精准率，召回率）.md"
               }
             }
           },
@@ -216,12 +217,19 @@
   },
   "active": "d6c62376f161e957",
   "lastOpenFiles": [
+    "笔记/逻辑回归.md",
+    "PR曲线.md",
+    "最佳阈值.md",
+    "L2正则化.md",
+    "笔记/线性回归分析.md",
+    "实际案例.md",
+    "多项式逻辑回归.md",
+    "sns.md",
     "Pasted image 20230701161826.png",
     "Pasted image 20230701160417.png",
     "Pasted image 20230701145029.png",
     "Pasted image 20230701144811.png",
     "查找异常值（正态分布数据）.md",
-    "sns.md",
     "多重共线性.md",
     "笔记/时间序列分析.md",
     "z-score.md",
@@ -235,8 +243,6 @@
     "大头计划.md",
     "Pasted image 20230623110046.png",
     "Pasted image 20230623110028.png",
-    "Pasted image 20230623110016.png",
-    "笔记/线性回归分析.md",
     "导入线性回归函数.md",
     "导入多项式扩展的库.md",
     "大纲/大纲.md",
@@ -244,17 +250,12 @@
     "笔记/Pandas.md",
     "笔记/逻辑回归-项目介绍.md",
     "评估指标（正确率，精准率，召回率）.md",
-    "最佳阈值.md",
     "分类朴素贝叶斯.md",
     "作业_项目/手写多元线性回归.md",
     "大纲",
     "未命名 1.canvas",
     "Elastic Net.md",
     "AdaBoost算法步骤.md",
-    "调和平均值 F1（F1-score）.md",
-    "计算概率值.md",
-    "笔记/逻辑回归.md",
-    "分类朴素贝叶斯代码.md",
     "课上 copy.ipynb",
     "未命名.canvas",
     "stopword.txt",
