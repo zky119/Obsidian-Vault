@@ -1,7 +1,7 @@
 # 用管理员打开 Anaconda Prompt
 
 ![[Pasted image 20230706170301.png]]
-[图片](https://github.com/zky119/Obsidian-Vault/blob/main/Pasted%20image%2020230706170301.png)
+[点我显示图片](https://github.com/zky119/Obsidian-Vault/blob/main/Pasted%20image%2020230706170301.png)
 
 # 创建虚拟环境
 
