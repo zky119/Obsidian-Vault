@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/时间序列分析.md",
+                "file": "笔记/安装tenorflow.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "笔记/时间序列分析.md",
+                "file": "笔记/安装tenorflow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "笔记/时间序列分析.md",
+                "file": "笔记/安装tenorflow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记/时间序列分析.md"
+                "file": "笔记/安装tenorflow.md"
               }
             }
           },
@@ -177,6 +176,9 @@
   },
   "active": "f5e10fbdee31c4f6",
   "lastOpenFiles": [
+    "Pasted image 20230706170301.png",
+    "笔记/时间序列分析.md",
+    "笔记/安装tenorflow.md",
     "多重共线性.md",
     "评估指标（正确率，精准率，召回率）.md",
     "笔记/逻辑回归.md",
@@ -192,7 +194,6 @@
     "Pasted image 20230701145029.png",
     "Pasted image 20230701144811.png",
     "查找异常值（正态分布数据）.md",
-    "笔记/时间序列分析.md",
     "z-score.md",
     "查找异常值.canvas",
     "作业_项目/阿里天池.md",
@@ -214,8 +215,6 @@
     "作业_项目/手写多元线性回归.md",
     "大纲",
     "未命名 1.canvas",
-    "Elastic Net.md",
-    "AdaBoost算法步骤.md",
     "课上 copy.ipynb",
     "未命名.canvas",
     "stopword.txt",
