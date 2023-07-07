@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/安装tenorflow.md",
+                "file": "XGBoost和GBDT的区别.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f83a40cb43b4e7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "笔记/numpy.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5
+    "width": 235.5,
+    "collapsed": true
   },
   "right": {
     "id": "9f3c7f3f0e193034",
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "笔记/安装tenorflow.md",
+                "file": "笔记/numpy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "笔记/安装tenorflow.md",
+                "file": "笔记/numpy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记/安装tenorflow.md"
+                "file": "笔记/numpy.md"
               }
             }
           },
@@ -174,11 +189,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f5e10fbdee31c4f6",
+  "active": "3f83a40cb43b4e7f",
   "lastOpenFiles": [
+    "GBDT.md",
+    "笔记/numpy.md",
+    "Pasted image 20230706210154.png",
+    "XGBoost和GBDT的区别.md",
+    "笔记/XGBoost.md",
+    "笔记/安装tenorflow.md",
     "Pasted image 20230706170301.png",
     "笔记/时间序列分析.md",
-    "笔记/安装tenorflow.md",
     "多重共线性.md",
     "评估指标（正确率，精准率，召回率）.md",
     "笔记/逻辑回归.md",
@@ -203,16 +223,11 @@
     "Pasted image 20230625113300.png",
     "导入回归模型评估.md",
     "大头计划.md",
-    "Pasted image 20230623110046.png",
-    "Pasted image 20230623110028.png",
     "导入线性回归函数.md",
     "导入多项式扩展的库.md",
     "大纲/大纲.md",
     "超参数调整.md",
     "笔记/Pandas.md",
-    "笔记/逻辑回归-项目介绍.md",
-    "分类朴素贝叶斯.md",
-    "作业_项目/手写多元线性回归.md",
     "大纲",
     "未命名 1.canvas",
     "课上 copy.ipynb",
