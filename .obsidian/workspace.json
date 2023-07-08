@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/numpy.md",
+                "file": "李沐/pytorch.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5,
-    "collapsed": true
+    "width": 235.5
   },
   "right": {
     "id": "9f3c7f3f0e193034",
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "笔记/numpy.md",
+                "file": "李沐/pytorch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "笔记/numpy.md",
+                "file": "李沐/pytorch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记/numpy.md"
+                "file": "李沐/pytorch.md"
               }
             }
           },
@@ -191,8 +190,11 @@
   },
   "active": "3f83a40cb43b4e7f",
   "lastOpenFiles": [
-    "GBDT.md",
+    "李沐/服务器初始化.md",
+    "李沐/pytorch.md",
     "笔记/numpy.md",
+    "李沐",
+    "GBDT.md",
     "Pasted image 20230706210154.png",
     "XGBoost和GBDT的区别.md",
     "笔记/XGBoost.md",
@@ -226,8 +228,6 @@
     "导入线性回归函数.md",
     "导入多项式扩展的库.md",
     "大纲/大纲.md",
-    "超参数调整.md",
-    "笔记/Pandas.md",
     "大纲",
     "未命名 1.canvas",
     "课上 copy.ipynb",
@@ -238,7 +238,6 @@
     "sms spam.csv",
     "作业_项目",
     " - 副本.gitattributes",
-    "笔记 - 副本",
-    "obsidian - 副本"
+    "笔记 - 副本"
   ]
 }
