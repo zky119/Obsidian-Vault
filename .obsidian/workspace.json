@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "李沐/pytorch.md",
+                "file": "作业_项目/阿里天池.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -63,12 +63,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "select",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTimeReverse"
               }
             }
           },
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "李沐/pytorch.md",
+                "file": "作业_项目/阿里天池.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "李沐/pytorch.md",
+                "file": "作业_项目/阿里天池.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "李沐/pytorch.md"
+                "file": "作业_项目/阿里天池.md"
               }
             }
           },
@@ -190,8 +190,28 @@
   },
   "active": "3f83a40cb43b4e7f",
   "lastOpenFiles": [
-    "李沐/服务器初始化.md",
+    "确定连续变量.md",
+    "数据挖掘/第一节项目课.md",
+    "Pasted image 20230709120340.png",
+    "sns箱型图中位数相关分析函数（连续-类别）.md",
+    "特征-目标值.md",
+    "作业_项目/阿里天池.md",
+    "类别-数值转换.md",
+    "笔记/逻辑回归-项目介绍.md",
+    "类别-连续.md",
+    "笔记/为甚要把特征转换为正态分布.md",
+    "多重共线性.md",
+    "评估指标（正确率，精准率，召回率）.md",
+    "笔记/逻辑回归.md",
+    "调和平均值 F1（F1-score）.md",
+    "ROC曲线.md",
+    "Pasted image 20230709093745.png",
+    "Pasted image 20230709093234.png",
+    "Pasted image 20230709093226.png",
+    "Pasted image 20230709092052.png",
     "李沐/pytorch.md",
+    "数据挖掘",
+    "李沐/服务器初始化.md",
     "笔记/numpy.md",
     "李沐",
     "GBDT.md",
@@ -201,33 +221,14 @@
     "笔记/安装tenorflow.md",
     "Pasted image 20230706170301.png",
     "笔记/时间序列分析.md",
-    "多重共线性.md",
-    "评估指标（正确率，精准率，召回率）.md",
-    "笔记/逻辑回归.md",
     "PR曲线.md",
     "最佳阈值.md",
     "L2正则化.md",
     "笔记/线性回归分析.md",
-    "实际案例.md",
-    "多项式逻辑回归.md",
-    "sns.md",
     "Pasted image 20230701161826.png",
     "Pasted image 20230701160417.png",
     "Pasted image 20230701145029.png",
-    "Pasted image 20230701144811.png",
-    "查找异常值（正态分布数据）.md",
-    "z-score.md",
     "查找异常值.canvas",
-    "作业_项目/阿里天池.md",
-    "Pasted image 20230625162519.png",
-    "Pasted image 20230625113833.png",
-    "Pasted image 20230625113752.png",
-    "Pasted image 20230625113300.png",
-    "导入回归模型评估.md",
-    "大头计划.md",
-    "导入线性回归函数.md",
-    "导入多项式扩展的库.md",
-    "大纲/大纲.md",
     "大纲",
     "未命名 1.canvas",
     "课上 copy.ipynb",
@@ -237,7 +238,6 @@
     "作业_项目/sms spam.csv",
     "sms spam.csv",
     "作业_项目",
-    " - 副本.gitattributes",
-    "笔记 - 副本"
+    " - 副本.gitattributes"
   ]
 }
