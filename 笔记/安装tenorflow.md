@@ -6,7 +6,7 @@
 ![[Pasted image 20230706170301.png]]
 [点我显示图片](https://github.com/zky119/Obsidian-Vault/blob/main/Pasted%20image%2020230706170301.png)
 
-# tensorflow 最新版
+# 一，tensorflow 最新版
 ## 创建虚拟环境
 - $-n$ 后面是虚拟环境的名字，自定义
 ```python
@@ -37,7 +37,7 @@ conda install -c anaconda tensorflow
 - 复制代码进Anaconda prompt
 
 
-# tensorflow 1.15.0 版本
+# 二，tensorflow 1.15.0 版本
 
 ## 创建虚拟环境
 - $-n$ 后面是虚拟环境的名字，自定义
@@ -56,3 +56,8 @@ conda activate tf37
 ```python
 conda install -c anaconda tensorflow=1.15.0
 ```
+
+## vscode选择该内核
+
+- 安装ipykernel，会失败
+- 复制代码进Anaconda prompt
