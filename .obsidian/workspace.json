@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "作业_项目/阿里天池.md",
+                "file": "笔记/安装tenorflow.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "作业_项目/阿里天池.md",
+                "file": "笔记/安装tenorflow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "作业_项目/阿里天池.md",
+                "file": "笔记/安装tenorflow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "作业_项目/阿里天池.md"
+                "file": "笔记/安装tenorflow.md"
               }
             }
           },
@@ -190,12 +190,12 @@
   },
   "active": "3f83a40cb43b4e7f",
   "lastOpenFiles": [
+    "作业_项目/阿里天池.md",
     "确定连续变量.md",
     "数据挖掘/第一节项目课.md",
     "Pasted image 20230709120340.png",
     "sns箱型图中位数相关分析函数（连续-类别）.md",
     "特征-目标值.md",
-    "作业_项目/阿里天池.md",
     "类别-数值转换.md",
     "笔记/逻辑回归-项目介绍.md",
     "类别-连续.md",
