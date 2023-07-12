@@ -1,3 +1,15 @@
+# conda命令
+```shell
+# 查看所有虚拟环境
+conda env list
+# 删除虚拟环境
+conda env remove --name <env_name>
+# 创建虚拟环境，可指定python版本
+conda create -n <env_name> python=3.9
+# 选择虚拟环境
+conda activate <env_name>
+```
+
 # 安装 （CPU版） 最新版 和 1.15.0版本
 - GPU版本的话，tensorflow 改成 tensorflow-gpu
 
@@ -29,13 +41,16 @@ conda config --add channels https://mirrors.sjtug.sjtu.edu.cn/anaconda/pkgs/main
 
 ```python
 conda install -c anaconda tensorflow
+#conda install -c anaconda tensorflow-gpu
 ```
 
 ## vscode选择该内核
 
 - 安装ipykernel，会失败
 - 复制代码进Anaconda prompt
-
+```shell
+conda install -n <env_name> ipykernel --update-deps --force-reinstall
+```
 
 # 二，tensorflow 1.15.0 版本
 
@@ -55,9 +70,13 @@ conda activate tf37
 
 ```python
 conda install -c anaconda tensorflow=1.15.0
+#conda install -c anaconda tensorflow-gpu=1.15.0
 ```
 
 ## vscode选择该内核
 
 - 安装ipykernel，会失败
 - 复制代码进Anaconda prompt
+```shell
+conda install -n <env_name> ipykernel --update-deps --force-reinstall
+```
