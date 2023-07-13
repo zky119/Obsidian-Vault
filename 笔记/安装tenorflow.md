@@ -78,5 +78,5 @@ conda install -c anaconda tensorflow=1.14.0
 - 安装ipykernel，会失败
 - 复制代码进Anaconda prompt
 ```shell
-conda install -n tf114g ipykernel --update-deps --force-reinstall
+conda install -n tf114 ipykernel --update-deps --force-reinstall
 ```
