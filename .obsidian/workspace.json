@@ -188,8 +188,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dffa4a99190b03d1",
+  "active": "3f83a40cb43b4e7f",
   "lastOpenFiles": [
+    "XGBoost和GBDT的区别.md",
     "大头大头",
     "作业_项目/阿里天池.md",
     "确定连续变量.md",
@@ -217,7 +218,6 @@
     "李沐",
     "GBDT.md",
     "Pasted image 20230706210154.png",
-    "XGBoost和GBDT的区别.md",
     "笔记/XGBoost.md",
     "笔记/安装tenorflow.md",
     "Pasted image 20230706170301.png",
@@ -237,7 +237,6 @@
     "comment.csv",
     "作业_项目/sms spam.csv",
     "sms spam.csv",
-    "作业_项目",
-    " - 副本.gitattributes"
+    "作业_项目"
   ]
 }

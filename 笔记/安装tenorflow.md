@@ -57,20 +57,20 @@ conda install -n <env_name> ipykernel --update-deps --force-reinstall
 ## 创建虚拟环境
 - $-n$ 后面是虚拟环境的名字，自定义
 ```python
-conda create -n tf37 python=3.7
+conda create -n tf114 python=3.6
 ```
 
 ## 选择虚拟环境
 
 ```python
-conda activate tf37
+conda activate tf114
 ```
 
 ## 安装tensorflow
 
 ```python
-conda install -c anaconda tensorflow=1.15.0
-#conda install -c anaconda tensorflow-gpu=1.15.0
+conda install -c anaconda tensorflow=1.14.0
+#conda install -c anaconda tensorflow-gpu=1.14.0
 ```
 
 ## vscode选择该内核
@@ -78,5 +78,5 @@ conda install -c anaconda tensorflow=1.15.0
 - 安装ipykernel，会失败
 - 复制代码进Anaconda prompt
 ```shell
-conda install -n <env_name> ipykernel --update-deps --force-reinstall
+conda install -n tf114g ipykernel --update-deps --force-reinstall
 ```
