@@ -8,5 +8,8 @@
   },
   "useTab": true,
   "readableLineLength": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "片段",
+  "attachmentFolderPath": "片段"
 }
