@@ -16,7 +16,7 @@ conda activate <env_name>
 # 用管理员打开 Anaconda Prompt
 
 ![[Pasted image 20230706170301.png]]
-[点我显示图片](https://github.com/zky119/Obsidian-Vault/blob/main/Pasted%20image%2020230706170301.png)
+[点我显示图片](https://github.com/zky119/Obsidian-Vault/blob/main/%E7%89%87%E6%AE%B5/Pasted%20image%2020230706170301.png)
 
 # 一，tensorflow 最新版
 ## 创建虚拟环境

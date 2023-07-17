@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tensorflow/tensorboard.md",
+                "file": "笔记/安装tenorflow.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "select",
+                "query": "随机森林",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tensorflow/tensorboard.md",
+                "file": "笔记/安装tenorflow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tensorflow/tensorboard.md",
+                "file": "笔记/安装tenorflow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tensorflow/tensorboard.md"
+                "file": "笔记/安装tenorflow.md"
               }
             }
           },
@@ -176,8 +176,10 @@
   },
   "active": "c71f902e9c320ce8",
   "lastOpenFiles": [
-    "片段/使用KNN回归预测.md",
+    "片段/决策树程序演示.md",
+    "片段/GridSearchCV.md",
     "tensorflow/tensorboard.md",
+    "片段/使用KNN回归预测.md",
     "tensorflow",
     "笔记/KNN.md",
     "片段/曲线绘制.md",
@@ -203,8 +205,6 @@
     "片段/序数编码和One-Hot编码区别.md",
     "片段/序数编码.md",
     "片段/向量表示.md",
-    "片段/误差与分布.md",
-    "片段/文本向量化.md",
     "片段/未命名.canvas",
     "片段/未命名 1.canvas",
     "片段/课上 copy.ipynb",
