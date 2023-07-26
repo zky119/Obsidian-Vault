@@ -1,0 +1,13 @@
+- torch
+	- torch.empty(5,3) 分配内存中的数据![[Pasted image 20230725150333.png]]
+	- torch.rand(5,3) 正态分布![[Pasted image 20230725150342.png]]
+	- torch.zeros(5,3, dtype=torch.long)![[Pasted image 20230725150549.png]]
+	- torch.randn_like(x, dtype=torch.float)
+	- 运算
+		- torch.add(a, b, out=result)  
+			- result = torch.add(a, b)
+			- 原地置换 y.add_(x)
+	- torch.view() 改变张量形状
+- x
+	- x.size()  获得张量大小
+

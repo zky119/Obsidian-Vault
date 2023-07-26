@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/安装tenorflow.md",
+                "file": "pytorch/pytorch.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5
+    "width": 235.5,
+    "collapsed": true
   },
   "right": {
     "id": "9f3c7f3f0e193034",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "笔记/安装tenorflow.md",
+                "file": "pytorch/pytorch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "笔记/安装tenorflow.md",
+                "file": "pytorch/pytorch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记/安装tenorflow.md"
+                "file": "pytorch/pytorch.md"
               }
             }
           },
@@ -176,6 +177,17 @@
   },
   "active": "c71f902e9c320ce8",
   "lastOpenFiles": [
+    "片段/Pasted image 20230725150549.png",
+    "片段/Pasted image 20230725150342.png",
+    "片段/Pasted image 20230725150333.png",
+    "nlp/未命名.md",
+    "pytorch/pytorch.md",
+    "pytorch",
+    "笔记/卷积.md",
+    "nlp",
+    "片段/输出层可以用relu吗.md",
+    "片段/keras基本代码.md",
+    "笔记/安装tenorflow.md",
     "片段/决策树程序演示.md",
     "片段/GridSearchCV.md",
     "tensorflow/tensorboard.md",
@@ -198,13 +210,6 @@
     "片段/置信度.md",
     "片段/支持度.md",
     "片段/正则化说明.md",
-    "片段/正则化.md",
-    "片段/正确率（Accuracy）.md",
-    "片段/召回率（Recall）.md",
-    "片段/载入模型.md",
-    "片段/序数编码和One-Hot编码区别.md",
-    "片段/序数编码.md",
-    "片段/向量表示.md",
     "片段/未命名.canvas",
     "片段/未命名 1.canvas",
     "片段/课上 copy.ipynb",
@@ -217,14 +222,10 @@
     "片段/Pasted image 20230709092052.png",
     "片段/Pasted image 20230706210154.png",
     "片段/Pasted image 20230706170301.png",
-    "片段/Pasted image 20230701161826.png",
-    "片段/Pasted image 20230701160417.png",
     "片段",
     "大头大头",
     "数据挖掘",
-    "李沐",
     "查找异常值.canvas",
-    "大纲",
     "未命名 1.canvas",
     "未命名.canvas"
   ]
