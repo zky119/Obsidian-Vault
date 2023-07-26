@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pytorch/pytorch.md",
+                "file": "笔记/安装tenorflow.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5,
-    "collapsed": true
+    "width": 235.5
   },
   "right": {
     "id": "9f3c7f3f0e193034",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pytorch/pytorch.md",
+                "file": "笔记/安装tenorflow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pytorch/pytorch.md",
+                "file": "笔记/安装tenorflow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pytorch/pytorch.md"
+                "file": "笔记/安装tenorflow.md"
               }
             }
           },
@@ -177,11 +176,11 @@
   },
   "active": "c71f902e9c320ce8",
   "lastOpenFiles": [
+    "pytorch/pytorch.md",
     "片段/Pasted image 20230725150549.png",
     "片段/Pasted image 20230725150342.png",
     "片段/Pasted image 20230725150333.png",
     "nlp/未命名.md",
-    "pytorch/pytorch.md",
     "pytorch",
     "笔记/卷积.md",
     "nlp",
@@ -221,7 +220,6 @@
     "片段/Pasted image 20230709093226.png",
     "片段/Pasted image 20230709092052.png",
     "片段/Pasted image 20230706210154.png",
-    "片段/Pasted image 20230706170301.png",
     "片段",
     "大头大头",
     "数据挖掘",

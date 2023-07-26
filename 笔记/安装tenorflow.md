@@ -18,7 +18,7 @@ conda activate <env_name>
 ![[Pasted image 20230706170301.png]]
 [点我显示图片](https://github.com/zky119/Obsidian-Vault/blob/main/%E7%89%87%E6%AE%B5/Pasted%20image%2020230706170301.png)
 
-# 一，tensorflow 最新版
+# 一，tensorflow-gpu 最新版
 ## 创建虚拟环境
 - $-n$ 后面是虚拟环境的名字，自定义
 ```python
@@ -40,8 +40,8 @@ conda config --add channels https://mirrors.sjtug.sjtu.edu.cn/anaconda/pkgs/main
 ## 安装tensorflow
 
 ```python
-conda install -c anaconda tensorflow
-#conda install -c anaconda tensorflow-gpu
+#conda install -c anaconda tensorflow
+conda install -c anaconda tensorflow-gpu
 ```
 
 ## vscode选择该内核
@@ -52,7 +52,7 @@ conda install -c anaconda tensorflow
 conda install -n <env_name> ipykernel --update-deps --force-reinstall
 ```
 
-# 二，tensorflow 1.15.0 版本
+# 二，tensorflow 1.14.0 版本
 
 ## 创建虚拟环境
 - $-n$ 后面是虚拟环境的名字，自定义
@@ -69,8 +69,8 @@ conda activate tf114
 ## 安装tensorflow
 
 ```python
-conda install -c anaconda tensorflow=1.14.0
-#conda install -c anaconda tensorflow-gpu=1.14.0
+# conda install -c anaconda tensorflow=1.14.0
+conda install -c anaconda tensorflow-gpu=1.14.0
 ```
 
 ## vscode选择该内核
